@@ -1,0 +1,21 @@
+* DATA ADDRESSING MODES *
+
+* VARİOUS DATA ADRESSİNG MODES *
+	- Immediate Adressing
+	- Register Adressing
+	- Direct Adressing
+	- Register Indirect Adressing
+	- Based Adressing
+	- Indexed Adressing
+	- Based Indexed Adressing
+	- String Adressing
+	- Port Adressing
+
+
+MOV INSTRUCTION
+XCHG INSTRUCTION
+XLAT INSTRUCTION
+
+LEA INSTRUCTION
+LDS INSTRUCTION
+LES INSTRUCTION
